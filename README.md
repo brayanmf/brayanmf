@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/brayan-martinez/" target="blank"><img align="center"
       src="./resource/svg/linked-in-alt.svg"
       alt="Brayan Martínez Flores" height="30" width="40" /></a>
-  <a href="https://wa.link/qr07ox" target="blank"><img align="center"
+  <a href="https://wa.link/g0ciob" target="blank"><img align="center"
       src="./resource/svg/whatsapp-svg.svg"
       alt="Brayan Martínez Flores" height="30" width="40" /></a>
  <a href="mailto:brayan.mflores@hotmail.com" target="blank"><img align="center"
