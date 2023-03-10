@@ -9,7 +9,7 @@
 
 - 📫 como llegar a mi **brayan.mflores@hotmail.com**
 
-- ⚡ Dato curioso: - El arte 🎨 y la música 🎵 son las razones por las que disfruto programar.
+- ⚡ Dato curioso: - El arte 🎨 y la música 🎵 son las razones por las cual disfruto ser desarrollador.
 
 <br>
 
