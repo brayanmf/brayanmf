@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Brayan Martínez</h1>
-<h3 align="center">Estudiante de Make it Real🌟.</h3>
+<h3 align="center">Desarrollador Software🌟.</h3>
 
 <br>
 
@@ -9,7 +9,7 @@
 
 - 📫 como llegar a mi **brayan.mflores@hotmail.com**
 
-- ⚡ Dato curioso: - El arte 🎨 y la música 🎵 son las razones por las cual disfruto ser desarrollador.
+- ⚡ Dato curioso: - El arte 🎨 y la música 🎵 son los complementos perfectos para amar lo que hago.
 
 <br>
 
